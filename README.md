@@ -1,7 +1,5 @@
 # Stock Analyzer and Auto-Trading Bot
 
-#### Video Url:  https://youtu.be/jPVE45CKQkg
-
 #### Description:
 Welcome to the Stock Analyzer and Auto-Trading Bot! This Python program leverages various libraries and APIs to help you analyze stock data, identify potentially profitable stocks, and even place buy orders automatically. This README provides an overview of the program's functionalities, how to install and use it, and the configuration requirements.
 
